@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 - 🔭 I’m currently Studying...
 - 🌱 I’m currently learning Pyhton
 - 👯 I’m looking to collaborate on projects
@@ -10,4 +8,3 @@
 - 📫 How to reach me: Manu2831 in everywhere
 - 😄 Pronouns: HE
 - ⚡ Fun fact: IDK
--->
